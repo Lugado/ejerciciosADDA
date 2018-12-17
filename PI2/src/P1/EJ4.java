@@ -2,9 +2,8 @@ package P1;
 
 import java.util.Comparator;
 import java.util.List;
-
 import us.lsi.tiposrecursivos.BinaryTree;
-import us.lsi.tiposrecursivos.Tree;
+
 
 
 public class EJ4 {
